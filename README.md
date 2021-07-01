@@ -26,5 +26,5 @@
 ## Project Structure 🔨
 
 <p align=center>
-    <img src="./img/structure.PNG">
+    <img src="./img/structure2.PNG">
 </p>
